@@ -1,3 +1,4 @@
+<img width="800" height="800" alt="1000125376" src="https://github.com/user-attachments/assets/251405e8-5b76-4c5b-a182-db02666ca0a5" />
 # Inventory-management-syestem
 Excel VBA-based automated inventory management dashboard.
 # 📊 Inventory Management System v1.0 (Excel & VBA)
